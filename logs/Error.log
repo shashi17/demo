@@ -1,0 +1,8 @@
+2020-07-26 14:07:13.987  INFO 8912 --- [main] com.infy.DemoSpringBootAOPApplication    : Starting DemoSpringBootAOPApplication on LAPTOP-DRCIIJUU with PID 8912 (started by hp 15 in C:\Users\hp 15\Documents\lex\Demo_SpringBoot_AOP\Demo_SpringBoot_AOP)
+2020-07-26 14:07:14.008  INFO 8912 --- [main] com.infy.DemoSpringBootAOPApplication    : No active profile set, falling back to default profiles: default
+2020-07-26 14:07:15.247  INFO 8912 --- [main] com.infy.DemoSpringBootAOPApplication    : Started DemoSpringBootAOPApplication in 1.806 seconds (JVM running for 2.452)
+2020-07-26 14:07:15.254 ERROR 8912 --- [main] com.infy.utility.LoggingAspect           : Before proceeding part of the Around advice.
+2020-07-26 14:07:15.254  INFO 8912 --- [main] com.infy.utility.LoggingAspect           : Before advice called.
+2020-07-26 14:07:15.267 ERROR 8912 --- [main] com.infy.utility.LoggingAspect           : After proceeding part of the Around advice.
+2020-07-26 14:07:15.267  INFO 8912 --- [main] com.infy.utility.LoggingAspect           : After advice called.
+2020-07-26 14:07:15.267  INFO 8912 --- [main] com.infy.utility.LoggingAspect           : After returning advice called.
